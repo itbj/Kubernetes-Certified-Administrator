@@ -275,3 +275,6 @@ krmgf nginx-8jk71    # kill pod nginx-8jk71 using grace period 0 and force
 
 [![Stargazers over time](https://starchart.cc/walidshaari/Kubernetes-Certified-Administrator.svg)](https://starchart.cc/walidshaari/Kubernetes-Certified-Administrator/)
 
+## URLs  
+https://www.youtube.com/watch?v=jZOs8Oips7Q
+
